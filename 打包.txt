@@ -1,0 +1,2 @@
+cd/d C:\Users\sxc\Documents\Qt\iPass\demo
+windeployqt iPass.exe

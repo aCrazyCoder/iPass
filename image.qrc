@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/input-left.png</file>
+        <file>image/input-right.png</file>
+        <file>image/lock.png</file>
+        <file>image/Password.ico</file>
+        <file>image/plus.png</file>
+        <file>image/safe.png</file>
+        <file>image/Search.png</file>
+        <file>image/about.png</file>
+        <file>image/copy.png</file>
+        <file>image/edit.png</file>
+        <file>image/exit.png</file>
+        <file>image/export.png</file>
+        <file>image/import.png</file>
+        <file>image/newAccount.png</file>
+        <file>image/see.png</file>
+        <file>image/settings.png</file>
+        <file>image/delete.png</file>
+        <file>image/correct.png</file>
+        <file>image/switch_off.png</file>
+        <file>image/switch_on.png</file>
+        <file>image/lock_closed.png</file>
+        <file>image/lock_open.png</file>
+        <file>other/unlock.wav</file>
+        <file>image/Trashcan.png</file>
+        <file>image/view.png</file>
+        <file>image/account.png</file>
+        <file>image/see_new.png</file>
+        <file>image/heidian.png</file>
+    </qresource>
+</RCC>
